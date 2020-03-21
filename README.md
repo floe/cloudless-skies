@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+# Cloudless Skies? Decentralizing Mobile Interaction
 
-You can use the [editor on GitHub](https://github.com/floe/cloudless-skies/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Workshop at MobileHCI 2020, October 5th, Oldenburg, Germany
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Mobile interaction is now almost exclusively dependent on an intransparent cloud infrastructure beyond the users' control, resulting in multiple issues related to security, privacy, and availability. While alternative approaches based on decentralized network architectures exist, these have their own set of issues such as lack of usability or content moderation.
 
-### Markdown
+In this workshop, we bring together researchers from related, but rarely interconnected fields to discuss issues and opportunities related to decentralization.  We will develop and discuss current and future scenarios for decentralized mobile interaction, both utopian and dystopian. We invite researchers interested in implementation and networking aspects of mobile decentralization as well as those focusing on ethical, legal and social implications (ELSI) of these alternative approaches to the mobile ecosystem.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Participating
 
-```markdown
-Syntax highlighted code block
+CfP to follow soon.
 
-# Header 1
-## Header 2
-### Header 3
+## Organizers
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/floe/cloudless-skies/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+  * Britta Schulte, Bauhaus-Universität Weimar
+  * Sujay Shalawadi, Bauhaus-Universität Weimar
+  * Max van Kleek, University of Oxford
+  * Florian Echtler, Bauhaus-Universität Weimar
