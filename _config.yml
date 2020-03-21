@@ -1,1 +1,7 @@
 theme: jekyll-theme-minimal
+
+title: "Cloudless Skies: Decentralizing Mobile Interaction"
+description: Website for the MobileHCI 2020 Workshop on Decentralizing Mobile Interaction
+
+logo: "cloudless.png"
+show_downloads: "false"
