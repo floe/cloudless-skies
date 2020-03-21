@@ -1,5 +1,3 @@
-# Cloudless Skies? Decentralizing Mobile Interaction
-
 ## Workshop at MobileHCI 2020, October 5th, Oldenburg, Germany
 
 Mobile interaction is now almost exclusively dependent on an intransparent cloud infrastructure beyond the users' control, resulting in multiple issues related to security, privacy, and availability. While alternative approaches based on decentralized network architectures exist, these have their own set of issues such as lack of usability or content moderation.
