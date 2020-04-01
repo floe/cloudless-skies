@@ -13,7 +13,10 @@ In this workshop, we will discuss existing and novel technical solutions for dec
 We invite participants to submit a position paper of up to 4 pages length in CHI extended abstract format (excluding references). Potential topics include, but are not limited to:
 
 (Lack of) incentives for using decentralized social systems, “tragedy of the commons”
-Utopian and dystopian design fiction on decentralized systems Content moderation in decentralized networks (both positive recommendations, and spam/abuse removal) Network protocols and software architectures for decentralization of mobile and IoT systems (peer-to-peer, blockchain, edge computing, ...) User-centric analysis of decentralized architectures; improving the usability of decentralized systems Emerging topics, e.g. secure multiparty computation
+Utopian and dystopian design fiction on decentralized systems 
+Content moderation in decentralized networks (both positive recommendations, and spam/abuse removal) 
+Network protocols and software architectures for decentralization of mobile and IoT systems (peer-to-peer, blockchain, edge computing, ...) 
+User-centric analysis of decentralized architectures; improving the usability of decentralized systems Emerging topics, e.g. secure multiparty computation
 
 Please submit your position paper by the 24th of July by emailing it to florian.echtler@uni-weimar.de or britta.schulte@uni-weimar.de. We aim to give feedback by the 14th of August. 
 
