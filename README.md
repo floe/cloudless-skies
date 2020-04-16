@@ -8,7 +8,7 @@ In this workshop, we bring together researchers from related, but rarely interco
 
 ## Participating
 
-In this workshop, we will discuss existing and novel technical solutions for decentralization (e.g. P2P communication protocols, decentralized infrastructures), focussing on their implications for users and society by developing fictional scenarios using these technologies. To do so, we aim to bring together a wide range of researchers from varying backgrounds, research fields and experiences. In addition to researchers working in the field, we also encourage those who have practical experience with decentralised services, either from a development or a user perspective to learn from best and worst practices. In addition, we are interested in responses from those who take a critical stance towards future technologies coming from a sociology, philosophy or design background. Please feel free to contact the organiser team if you are unsure whether the workshop might be relevant to you. 
+In this workshop, we will discuss existing and novel solutions for decentralization (e.g. P2P communication protocols, blockchains, decentralized infrastructures), focussing on their advantages, drawbacks, and implications for users and society by developing fictional scenarios using these technologies. To do so, we aim to bring together a wide range of researchers from varying backgrounds, research fields and experiences. In addition to researchers working in this area, we also encourage those who have practical experience with decentralised services, either from a development or a user perspective to learn from best and worst practices. In addition, we are interested in responses from those who take a critical stance towards future technologies coming from a sociology, philosophy or design background. Please feel free to contact the organiser team if you are unsure whether the workshop might be relevant to you. 
 
 We invite participants to submit a position paper of up to 4 pages length in CHI extended abstract format (excluding references). Potential topics include, but are not limited to:
 
@@ -17,11 +17,12 @@ We invite participants to submit a position paper of up to 4 pages length in CHI
   * Content moderation in decentralized networks (both positive recommendations, and spam/abuse removal) 
   * Network protocols and software architectures for decentralization of mobile and IoT systems (peer-to-peer, blockchain, edge computing, ...) 
   * User-centric analysis of decentralized architectures; improving the usability of decentralized systems 
+  * Decentralization in resource-constrained environments, e.g with limited Internet access
   * Emerging topics, e.g. secure multiparty computation
 
 ## Submission
 
-Please submit your position paper by the 24th of July by emailing it to [florian.echtler@uni-weimar.de](mailto:florian.echtler@uni-weimar.de) or [britta.schulte@uni-weimar.de](mailto:britta.schulte@uni-weimar.de). We aim to give feedback by the 14th of August. 
+Please submit your position paper by July 10th by emailing it to [florian.echtler@uni-weimar.de](mailto:florian.echtler@uni-weimar.de) or [britta.schulte@uni-weimar.de](mailto:britta.schulte@uni-weimar.de). We aim to give feedback on paper decisions by July 31st. 
 
 In preparation for the workshop we will share all accepted position papers online to give you time and opportunity to familiarise yourself with them in preparation for fruitful discussions in the day. We will further ask you to prepare a short presentation about yourself in advance. Accepted participants will have to register for the workshop and at least one day of the conference. We currently expect the workshop to physically take place in person in Oldenburg, but we are working on contingency plans together with the organisers should that change. 
 
