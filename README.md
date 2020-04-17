@@ -13,12 +13,12 @@ In this workshop, we will discuss existing and novel solutions for decentralizat
 We invite participants to submit a position paper of up to 4 pages length in CHI extended abstract format (excluding references). Potential topics include, but are not limited to:
 
   * (Lack of) incentives for using decentralized social systems, “tragedy of the commons”
+  * Emerging topics, e.g. COVID-19 contact tracing, secure multiparty computation, ...
   * Utopian and dystopian design fiction on decentralized systems 
   * Content moderation in decentralized networks (both positive recommendations, and spam/abuse removal) 
   * Network protocols and software architectures for decentralization of mobile and IoT systems (peer-to-peer, blockchain, edge computing, ...) 
   * User-centric analysis of decentralized architectures; improving the usability of decentralized systems 
   * Decentralization in resource-constrained environments, e.g with limited Internet access
-  * Emerging topics, e.g. secure multiparty computation, COVID-19 contact tracing
   
 All position papers will be collected and published in the [CEUR Workshop Proceedings](http://ceur-ws.org/) series. In addition, we plan a subsequent collaboration with interested workshop participants to condense our results into an extended survey paper, to be submitted to a suitable venue such as [IMWUT](https://imwut.acm.org/) in late 2020.
 
