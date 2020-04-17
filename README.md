@@ -20,7 +20,7 @@ We invite participants to submit a position paper of up to 4 pages length in CHI
   * Decentralization in resource-constrained environments, e.g with limited Internet access
   * Emerging topics, e.g. secure multiparty computation
   
-All position papers will be collected and published in the CEUR Workshop Proceedings series. In addition, we plan a subsequent collaboration with interested workshop participants to condense our results into an extended survey paper, to be submitted to a suitable venue in late 2020.
+All position papers will be collected and published in the [CEUR Workshop Proceedings](http://ceur-ws.org/) series. In addition, we plan a subsequent collaboration with interested workshop participants to condense our results into an extended survey paper, to be submitted to a suitable venue such as [IMWUT](https://imwut.acm.org/) in late 2020.
 
 ## Submission
 
