@@ -10,7 +10,7 @@ In this workshop, we bring together researchers from related, but rarely interco
 
 In this workshop, we will discuss existing and novel solutions for decentralization (e.g. P2P communication protocols, blockchains, decentralized infrastructures), focussing on their advantages, drawbacks, and implications for users and society by developing fictional scenarios using these technologies. To do so, we aim to bring together a wide range of researchers from varying backgrounds, research fields and experiences. In addition to researchers working in this area, we also encourage those who have practical experience with decentralised services, either from a development or a user perspective to learn from best and worst practices. In addition, we are interested in responses from those who take a critical stance towards future technologies coming from a sociology, philosophy or design background. Please feel free to contact the organiser team if you are unsure whether the workshop might be relevant to you. 
 
-We invite participants to submit a position paper of up to 4 pages length in CHI extended abstract format (excluding references). Potential topics include, but are not limited to:
+We invite participants to submit a position paper of up to 4 pages length in CHI extended abstract format (excluding references, use `sigchi-a` format from the [ACM template](https://www.acm.org/publications/proceedings-template)). Potential topics include, but are not limited to:
 
   * (Lack of) incentives for using decentralized social systems, “tragedy of the commons”
   * Utopian and dystopian design fiction on decentralized systems 
