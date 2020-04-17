@@ -19,12 +19,14 @@ We invite participants to submit a position paper of up to 4 pages length in CHI
   * User-centric analysis of decentralized architectures; improving the usability of decentralized systems 
   * Decentralization in resource-constrained environments, e.g with limited Internet access
   * Emerging topics, e.g. secure multiparty computation
+  
+All position papers will be collected and published in the CEUR Workshop Proceedings series. In addition, we plan a subsequent collaboration with interested workshop participants to condense our results into an extended survey paper, to be submitted to a suitable venue in late 2020.
 
 ## Submission
 
-Please submit your position paper by July 10th by emailing it to [florian.echtler@uni-weimar.de](mailto:florian.echtler@uni-weimar.de) or [britta.schulte@uni-weimar.de](mailto:britta.schulte@uni-weimar.de). We aim to give feedback on paper decisions by July 31st. 
+Please submit your position paper by July 10th via email to [florian.echtler@uni-weimar.de](mailto:florian.echtler@uni-weimar.de) or [britta.schulte@uni-weimar.de](mailto:britta.schulte@uni-weimar.de). We aim to give feedback on paper decisions by July 31st. 
 
-In preparation for the workshop we will share all accepted position papers online to give you time and opportunity to familiarise yourself with them in preparation for fruitful discussions in the day. We will further ask you to prepare a short presentation about yourself in advance. Accepted participants will have to register for the workshop and at least one day of the conference. We currently expect the workshop to physically take place in person in Oldenburg, but we are working on contingency plans together with the organisers should that change. 
+In preparation for the workshop we will share all accepted position papers online to give you time and opportunity to familiarise yourself with them in preparation for fruitful discussions in the day. We will further ask you to prepare a short presentation about yourself in advance. Accepted participants will have to register for the workshop and at least one day of the conference. We currently expect the workshop to physically take place in person in Oldenburg, but we are working on contingency plans together with the conference organisers should that change. 
 
 We hope to hear from you and look forward to an exciting day at MobileHCI!
 
