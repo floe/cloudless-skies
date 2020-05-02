@@ -32,7 +32,7 @@ We hope to hear from you and look forward to an exciting day at MobileHCI!
 
 ## Organizers
 
-  * Britta Schulte, Bauhaus-Universität Weimar
-  * Sujay Shalawadi, Bauhaus-Universität Weimar
-  * Max van Kleek, University of Oxford
-  * Florian Echtler, Bauhaus-Universität Weimar
+  * Britta Schulte, Bauhaus-Universität Weimar [@brifrischu](https://twitter.com/brifrischu)
+  * Sujay Shalawadi, Bauhaus-Universität Weimar [@sujaybshalawadi](https://twitter.com/sujaybshalawadi)
+  * Max van Kleek, University of Oxford [@emax](https://twitter.com/emax)
+  * Florian Echtler, Bauhaus-Universität Weimar [@floemuc](https://twitter.com/floemuc)
