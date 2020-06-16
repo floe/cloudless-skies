@@ -24,9 +24,8 @@ All position papers will be collected and published in the [CEUR Workshop Procee
 
 ## Submission
 
-Please submit your position paper (in `sigchi-a` format from the [ACM template](https://www.acm.org/publications/proceedings-template)) by July 17th, 2020 via EasyChair: 
-email to [florian.echtler@uni-weimar.de](mailto:florian.echtler@uni-weimar.de) or [britta.schulte@uni-weimar.de](mailto:britta.schulte@uni-weimar.de).
-Decisions will be announced by August 7th, 2020.
+Please submit your position paper (in `sigchi-a` format from the [ACM template](https://www.acm.org/publications/proceedings-template)) by August 7th, 2020 via EasyChair: https://easychair.org/my/conference?conf=csdmi20
+Decisions will be announced by August 28th, 2020.
 
 In preparation for the workshop, we will share all accepted position papers online to give you time and opportunity to familiarise yourself with them in preparation for fruitful discussions in the day. We will further ask you to prepare a short presentation about yourself in advance. As the workshop will be conducted virtually, authors of accepted papers are not required to pay a registration fee. Please see the MobileHCI website for details about registration for the virtual main conference.
 
@@ -38,3 +37,5 @@ We hope to hear from you and look forward to an exciting virtual meetup!
   * Sujay Shalawadi, Bauhaus-Universität Weimar ([@sujaybshalawadi](https://twitter.com/sujaybshalawadi))
   * Max van Kleek, University of Oxford ([@emax](https://twitter.com/emax))
   * Florian Echtler, Aalborg University ([@floemuc](https://twitter.com/floemuc))
+
+For further questions, send an email to [florian.echtler@uni-weimar.de](mailto:florian.echtler@uni-weimar.de) or [britta.schulte@uni-weimar.de](mailto:britta.schulte@uni-weimar.de).
