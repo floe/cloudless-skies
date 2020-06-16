@@ -1,6 +1,6 @@
 # Cloudless Skies: Decentralizing Mobile Interaction
 
-## Workshop at [MobileHCI 2020](https://mobilehci.acm.org/2020/), October 5th, Oldenburg, Germany
+## Workshop at [MobileHCI 2020](https://mobilehci.acm.org/2020/), October 5th, Oldenburg, Germany (virtual)
 
 Mobile interaction is now almost exclusively dependent on an intransparent cloud infrastructure beyond the users' control, resulting in multiple issues related to security, privacy, and availability. While alternative approaches based on decentralized network architectures exist, these have their own set of issues such as lack of usability or content moderation.
 
@@ -24,15 +24,17 @@ All position papers will be collected and published in the [CEUR Workshop Procee
 
 ## Submission
 
-Please submit your position paper (in `sigchi-a` format from the [ACM template](https://www.acm.org/publications/proceedings-template)) by July 10th via email to [florian.echtler@uni-weimar.de](mailto:florian.echtler@uni-weimar.de) or [britta.schulte@uni-weimar.de](mailto:britta.schulte@uni-weimar.de). We aim to give feedback on paper decisions by July 31st. 
+Please submit your position paper (in `sigchi-a` format from the [ACM template](https://www.acm.org/publications/proceedings-template)) by July 17th, 2020 via EasyChair: 
+email to [florian.echtler@uni-weimar.de](mailto:florian.echtler@uni-weimar.de) or [britta.schulte@uni-weimar.de](mailto:britta.schulte@uni-weimar.de).
+Decisions will be announced by August 7th, 2020.
 
-In preparation for the workshop we will share all accepted position papers online to give you time and opportunity to familiarise yourself with them in preparation for fruitful discussions in the day. We will further ask you to prepare a short presentation about yourself in advance. Accepted participants will have to register for the workshop and at least one day of the conference. We currently expect the workshop to physically take place in person in Oldenburg, but we are working on contingency plans together with the conference organisers should that change. 
+In preparation for the workshop, we will share all accepted position papers online to give you time and opportunity to familiarise yourself with them in preparation for fruitful discussions in the day. We will further ask you to prepare a short presentation about yourself in advance. As the workshop will be conducted virtually, authors of accepted papers are not required to pay a registration fee. Please see the MobileHCI website for details about registration for the virtual main conference.
 
-We hope to hear from you and look forward to an exciting day at MobileHCI!
+We hope to hear from you and look forward to an exciting virtual meetup!
 
 ## Organizers
 
   * Britta Schulte, Bauhaus-Universität Weimar ([@brifrischu](https://twitter.com/brifrischu))
   * Sujay Shalawadi, Bauhaus-Universität Weimar ([@sujaybshalawadi](https://twitter.com/sujaybshalawadi))
   * Max van Kleek, University of Oxford ([@emax](https://twitter.com/emax))
-  * Florian Echtler, Bauhaus-Universität Weimar ([@floemuc](https://twitter.com/floemuc))
+  * Florian Echtler, Aalborg University ([@floemuc](https://twitter.com/floemuc))
