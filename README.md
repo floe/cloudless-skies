@@ -25,6 +25,7 @@ All position papers will be collected and published in the [CEUR Workshop Procee
 ## Submission
 
 Please submit your position paper (in `sigchi-a` format from the [ACM template](https://www.acm.org/publications/proceedings-template)) by August 7th, 2020 via EasyChair: https://easychair.org/my/conference?conf=csdmi20
+
 Decisions will be announced by August 28th, 2020.
 
 In preparation for the workshop, we will share all accepted position papers online to give you time and opportunity to familiarise yourself with them in preparation for fruitful discussions in the day. We will further ask you to prepare a short presentation about yourself in advance. As the workshop will be conducted virtually, authors of accepted papers are not required to pay a registration fee. Please see the MobileHCI website for details about registration for the virtual main conference.
