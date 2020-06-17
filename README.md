@@ -24,7 +24,7 @@ All position papers will be collected and published in the [CEUR Workshop Procee
 
 ## Submission
 
-Please submit your position paper (in `sigchi-a` format from the [ACM template](https://www.acm.org/publications/proceedings-template)) by August 7th, 2020 via EasyChair: https://easychair.org/my/conference?conf=csdmi20
+Please submit your position paper (in `sigchi-a` format from the [ACM template](https://www.acm.org/publications/proceedings-template)) by August 7th, 2020 via [EasyChair](https://easychair.org/my/conference?conf=csdmi20).
 
 Decisions will be announced by August 28th, 2020.
 
